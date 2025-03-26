@@ -1,0 +1,19 @@
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 800px;
+    font-family: system-ui;
+    background-color: aquamarine;
+}
+
+section {
+    display: flex;
+    flex-direction: space-between;
+    align-self: center;
+}
+
+section img{
+    max-width: 300px;
+    height: auto;
+}
